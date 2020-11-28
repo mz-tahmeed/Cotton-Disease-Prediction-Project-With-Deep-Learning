@@ -1,4 +1,4 @@
-# Cotton Disease Prediction Project With Deep Learning
+# Cotton Disease Prediction Project With Deep Learning(Overview)
 
 ## Website UI
 
@@ -31,4 +31,5 @@
 ## Sources
 
 **Dataset:** https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
+
 **You can view on the details of this project here:** https://www.youtube.com/user/krishnaik06
